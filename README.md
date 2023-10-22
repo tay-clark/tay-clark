@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Taylor!
+
+I'm a JavaScript, C#, and Java engineer working at GEICO.
+
+You can also find me on [LinkedIn](https://www.linkedin.com/in/tay-clark/).
