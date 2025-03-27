@@ -16,7 +16,3 @@ Here are some ideas to get you started:
 -->
 
 I'm Taylor!
-
-I'm an engineer working at GEICO.
-
-You can also find me on [LinkedIn](https://www.linkedin.com/in/tay-clark/).
